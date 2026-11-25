@@ -1,0 +1,9 @@
+**/node_modules/
+**/target/
+**/dist/
+**/.env
+**/.env.local
+**/application-local.properties
+**/uploads/
+.idea/
+*.iml
